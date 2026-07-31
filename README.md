@@ -4,6 +4,7 @@ This project is an end-to-end Machine Learning web application that predicts the
 
 ## 📂 Project Structure
 
+
 * **`app.py`**: The main Flask application file. It loads the pre-trained machine learning model, renders the frontend interface, and handles prediction requests from the web form.
 * **`Flower_classification_prediction .ipynb`**: A Jupyter Notebook containing the data exploration, model training, and evaluation steps. This script processes the raw data and exports the finalized XGBoost model.
 * **`flower_model.pkl`**: The serialized (pickled) XGBoost machine learning model generated from the Jupyter notebook. This is used by the Flask app to make real-time predictions.
