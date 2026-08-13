@@ -11,6 +11,8 @@ This project is an end-to-end Machine Learning web application that predicts the
 * **`Iris.csv`**: The dataset used to train the model, containing 150 records of Iris flowers with their corresponding Sepal Length, Sepal Width, Petal Length, Petal Width, and Species.
 * **`index.html`**: The frontend user interface. It contains a responsive web form where users can input flower measurements to get a classification result.
 
+---
+
 ## 🚀 Features
 
 * **Machine Learning Model:** Utilizes a highly accurate XGBoost Classifier.
