@@ -3,6 +3,7 @@ This project is an end-to-end Machine Learning web application that predicts the
 
 ---
 
+
 ## 📂 Project Structure
 
 
